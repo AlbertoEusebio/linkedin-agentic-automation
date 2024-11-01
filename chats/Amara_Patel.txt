@@ -1,0 +1,3 @@
+Amara Patel: Hi Alberto! Could you share resources on cloud infrastructure? I'm working on scalability for AI apps.
+You: Hi Amara! Sure, I have a few key resources I'll send over to get you started.
+Amara Patel: Perfect, thanks! I'd love to chat further if you have time.

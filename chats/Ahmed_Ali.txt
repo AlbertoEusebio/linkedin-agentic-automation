@@ -1,0 +1,3 @@
+Ahmed Ali: Hi Alberto, I'm building a mental health app. Any thoughts on UX best practices?
+You: Hi Ahmed! Yes, empathy-driven design is key. Keep the interface calm and simple.
+Ahmed Ali: Thanks, that's very insightful!

@@ -1,0 +1,3 @@
+John Doe: Hi, Alberto! I'm working on an AI project in medical applications. Any interest in collaborating?
+You: Hi John! Definitely interested. Can you tell me more about the scope?
+John Doe: Sure! We're aiming to make AI predictions more transparent for healthcare professionals.

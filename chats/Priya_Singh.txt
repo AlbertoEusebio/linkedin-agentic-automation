@@ -1,0 +1,3 @@
+Priya Singh: Hi Alberto, any tips on improving segmentation accuracy? I'm working with complex datasets.
+You: Hi Priya! Yes, try data augmentation and model tuning to manage noisy data.
+Priya Singh: Thank you! I'd love to hear about tools if you have recommendations.

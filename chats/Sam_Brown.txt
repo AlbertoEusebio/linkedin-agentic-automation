@@ -1,0 +1,3 @@
+Sam Brown: Hi Alberto, I'm building a chatbot. Any advice on natural language processing?
+You: Hi Sam! Yes, focus on training with diverse data. I can share a few resources.
+Sam Brown: Thanks! That would be super helpful.

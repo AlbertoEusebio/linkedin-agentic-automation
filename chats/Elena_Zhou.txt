@@ -1,0 +1,3 @@
+Elena Zhou: Hello Alberto! Do you have any insights on XAI for healthcare? We want to improve model transparency.
+You: Hi Elena! I can definitely help. XAI in healthcare is all about balancing accuracy and interpretability.
+Elena Zhou: That's exactly what we need. Could we discuss in more detail?

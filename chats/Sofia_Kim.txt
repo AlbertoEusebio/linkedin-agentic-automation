@@ -1,0 +1,3 @@
+Sofia Kim: Hey Alberto! Any tips on strategic design for launching an MVP?
+You: Hi Sofia! Focus on core functionalities and user feedback for quick iteration.
+Sofia Kim: That's helpful, thank you!

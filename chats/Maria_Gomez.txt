@@ -1,0 +1,3 @@
+Maria Gomez: Hi Alberto! We're researching AI in customer experience. Any insights on implementation challenges?
+You: Hi Maria! Yes, aligning AI with user needs can be challenging. Personalization is key.
+Maria Gomez: Agreed! Let's schedule a call to dive deeper.

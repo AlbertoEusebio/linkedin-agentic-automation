@@ -1,0 +1,3 @@
+Jake Smith: Hi Alberto! I'm a student interested in AI. Do you have any advice on projects to get started?
+You: Hi Jake! Start with small projects like building simple machine learning models. I can share some resources.
+Jake Smith: That would be amazing! Thank you for the guidance.
